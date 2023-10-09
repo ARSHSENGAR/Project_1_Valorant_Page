@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/arshsengar/Project_1_Valorant_Page">
-    <img src="https://ibb.co/3CJkpQJ" alt="Logo" width="80" height="80">
+    <img src="https://i.ibb.co/wzvYSjv/Favicon-01.png" alt="Favicon-01" border="0">
   </a>
 
   <h3 align="center">Valorant Page</h3>
@@ -32,7 +32,7 @@
 
 ## About The Project
 
-![Screen Shot](https://ibb.co/sWN3qJ0)
+![Screen Shot](https://i.ibb.co/PDPCgz7/Project-01-Valorant-Page.png)
 
 This is my first project as an aspiring Full-Stack Developer. Being an avid Valorant addict I couldn't help but test my newly acquired HTML and CSS  skills on an Valorant inspired page.
 
